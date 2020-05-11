@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-prtfolio/static/css/main.5f361e03.chunk.css",
-    "main.js": "/react-prtfolio/static/js/main.d8a1ce17.chunk.js",
-    "main.js.map": "/react-prtfolio/static/js/main.d8a1ce17.chunk.js.map",
-    "runtime-main.js": "/react-prtfolio/static/js/runtime-main.14ec2da9.js",
-    "runtime-main.js.map": "/react-prtfolio/static/js/runtime-main.14ec2da9.js.map",
-    "static/js/2.21553678.chunk.js": "/react-prtfolio/static/js/2.21553678.chunk.js",
-    "static/js/2.21553678.chunk.js.map": "/react-prtfolio/static/js/2.21553678.chunk.js.map",
-    "index.html": "/react-prtfolio/index.html",
-    "precache-manifest.d35158f795c438439e517c48f0d7e20a.js": "/react-prtfolio/precache-manifest.d35158f795c438439e517c48f0d7e20a.js",
-    "service-worker.js": "/react-prtfolio/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/react-prtfolio/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.21553678.chunk.js.LICENSE.txt": "/react-prtfolio/static/js/2.21553678.chunk.js.LICENSE.txt"
+    "main.css": "/Abhay_singh_Portfolio/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Abhay_singh_Portfolio/static/js/main.5d7f112e.chunk.js",
+    "main.js.map": "/Abhay_singh_Portfolio/static/js/main.5d7f112e.chunk.js.map",
+    "runtime-main.js": "/Abhay_singh_Portfolio/static/js/runtime-main.3607a075.js",
+    "runtime-main.js.map": "/Abhay_singh_Portfolio/static/js/runtime-main.3607a075.js.map",
+    "static/js/2.21553678.chunk.js": "/Abhay_singh_Portfolio/static/js/2.21553678.chunk.js",
+    "static/js/2.21553678.chunk.js.map": "/Abhay_singh_Portfolio/static/js/2.21553678.chunk.js.map",
+    "index.html": "/Abhay_singh_Portfolio/index.html",
+    "precache-manifest.8f0efb3819b1b1bb32af847bb9f40242.js": "/Abhay_singh_Portfolio/precache-manifest.8f0efb3819b1b1bb32af847bb9f40242.js",
+    "service-worker.js": "/Abhay_singh_Portfolio/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Abhay_singh_Portfolio/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.21553678.chunk.js.LICENSE.txt": "/Abhay_singh_Portfolio/static/js/2.21553678.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.14ec2da9.js",
+    "static/js/runtime-main.3607a075.js",
     "static/js/2.21553678.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.d8a1ce17.chunk.js"
+    "static/js/main.5d7f112e.chunk.js"
   ]
 }
