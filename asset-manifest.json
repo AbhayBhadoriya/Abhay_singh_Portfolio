@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Abhay_singh_Portfolio/static/css/main.5f361e03.chunk.css",
-    "main.js": "/Abhay_singh_Portfolio/static/js/main.5854707a.chunk.js",
-    "main.js.map": "/Abhay_singh_Portfolio/static/js/main.5854707a.chunk.js.map",
+    "main.js": "/Abhay_singh_Portfolio/static/js/main.9bf06d88.chunk.js",
+    "main.js.map": "/Abhay_singh_Portfolio/static/js/main.9bf06d88.chunk.js.map",
     "runtime-main.js": "/Abhay_singh_Portfolio/static/js/runtime-main.55671efc.js",
     "runtime-main.js.map": "/Abhay_singh_Portfolio/static/js/runtime-main.55671efc.js.map",
     "static/js/2.edaf90ca.chunk.js": "/Abhay_singh_Portfolio/static/js/2.edaf90ca.chunk.js",
     "static/js/2.edaf90ca.chunk.js.map": "/Abhay_singh_Portfolio/static/js/2.edaf90ca.chunk.js.map",
     "index.html": "/Abhay_singh_Portfolio/index.html",
-    "precache-manifest.130ad2b406d6a9819896f9fa6444a76f.js": "/Abhay_singh_Portfolio/precache-manifest.130ad2b406d6a9819896f9fa6444a76f.js",
+    "precache-manifest.3fd2c4810a1c9f20c8de5fc6f8286118.js": "/Abhay_singh_Portfolio/precache-manifest.3fd2c4810a1c9f20c8de5fc6f8286118.js",
     "service-worker.js": "/Abhay_singh_Portfolio/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/Abhay_singh_Portfolio/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.edaf90ca.chunk.js.LICENSE.txt": "/Abhay_singh_Portfolio/static/js/2.edaf90ca.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.55671efc.js",
     "static/js/2.edaf90ca.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.5854707a.chunk.js"
+    "static/js/main.9bf06d88.chunk.js"
   ]
 }
